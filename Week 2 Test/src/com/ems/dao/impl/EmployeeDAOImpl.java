@@ -123,10 +123,10 @@ public class EmployeeDAOImpl implements EmployeeDAO {
 			
 			set.next();
 			
-			employee.setAddress(set.getString(1));
-			employee.setAddress(set.getString(2));
-			employee.setAddress(set.getString(3));
-			employee.setAddress(set.getString(4));
+			employee.setfName(set.getString(1));
+			employee.setLastName(set.getString(2));
+			employee.setEmpId(set.getString(3));
+			employee.setDob(set.getString(4));
 			employee.setAddress(set.getString(5));
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
