@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ant-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ant-antlr-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ant-junit-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ant-launcher-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ant-swing-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/c3p0-0.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/cglib-full-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/cleanimports.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/connector.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/dom4j-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/hibernate-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jacc-1_0-fr.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jaxen-1.1-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jboss-common.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jboss-remoting.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jboss-system.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jgroups-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/jta.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/mysql-connector-java-3.0.16-ga-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/mysql-connector-java-3.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/mysql-connector-java-3.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/swarmcache-1.0rc2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/versioncheck.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/lib_hibernate/lib_hibernate/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

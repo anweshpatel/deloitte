@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Sign Up</title>
+	</head>
+	<body bgcolor="#999da3" text="#081c45">
+		<font face="Arial" size="20">
+			<center>Sign Up</center>
+		</font>
+		<hr color="#081c45"/>
+		<center>
+		<form>
+			<table>
+			<tr>
+				<td>User ID:</td>
+				<td><input type="text" id="loginID" name="loginID"></td>
+			<tr>
+				<td>Password:</td>
+				<td><input type="password" id="loginPass" name="loginPassword"></td>
+			</tr>
+			<tr>
+				<td>Confirm Password:</td>
+				<td><input type="password" id="confirmPassword" name="confirmPassword"></td>
+			</tr>
+			<tr>
+				<td>Gender:</td>
+				<td>
+					<input type="radio" id="male" name="gender" value="m">Male
+					<input type="radio" id="female" name="gender" value="f">Female
+					<input type="radio" id="others" name="gender" value="o">Others
+				</td>
+			</tr>
+			<tr>
+				<td>Update Medium:</td>
+				<td>
+					<input type="checkbox" id="updates1" name="updates" value="mobile">Mobile
+					<input type="checkbox" id="updates2" name="updates" value="email">E-mail
+					<input type="checkbox" id="updates3" name="updates" value="sms">SMS
+				</td>
+			</tr>
+			<tr>
+				<td>Department:</td>
+				<td>
+					<select id="department" name="department">
+						<option value="None">Choose One</option>
+						<option value="HR">HR</option>
+						<option value="Finance">Finance</option>
+						<option value="Inventory">Inventory</option>
+						<option value="Marketing">Marketing</option>
+						<option value="Operations">Operations</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Recent Photograph:</td>
+				<td><input type="file" id="recentPhotograph" name="recentPhotograph"></td>
+			</tr>
+			<tr>
+				<td align="center"><input type="submit" value="Sign Up"></td>
+				<td align="center"><input type="reset" value="Clear"></td>
+			</tr>
+			</table>
+		</form>
+		</center>
+	</body>
+</html>
